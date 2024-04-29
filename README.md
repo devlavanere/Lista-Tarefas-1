@@ -26,20 +26,20 @@ node --version ou node -v
 <img src="img/caminho-path-1.jpg">
 
 <li>Propriedades do Sistema</li>
-Clique no botão -> Variáveis de Ambiente
+<p>Clique no botão -> Variáveis de Ambiente</p>
 
 <img src="img/caminho-path-2.png">
 
 <li>Varáveis de Ambiente:</li>
-- Clique na variável Path e depois em editar.
+<p>- Clique na variável Path e depois em editar.</p>
 
 <img src="img/caminho-path-3.png">
 
-Depois disso é só clicar em novo e adicionar caminho.
+<p>Depois disso é só clicar em novo e adicionar caminho.</p>
 
 <img src="img/caminho-path-5.png">
 
-Um exemplo de como pegar o caminho para adicionar no Path, basta apenas copiar o caminho desejado:
+<p>Um exemplo de como pegar o caminho para adicionar no Path, basta apenas copiar o caminho desejado:</p>
 
 <img src="img/caminho-path-4.jpg">
 
@@ -68,9 +68,7 @@ npm --version ou npm -v
 ```
 npm install prompt-sync
 ```
-
 Para utilizá-lo num arquivo js para entrada de dados, use no início do arquivo a seguinte linha de código:
-
 ```
 const prompt = require('prompt-sync')();
 ```
@@ -101,13 +99,13 @@ node exec_1.js
 ```
 6- O resultado do exercício será exibido. 
 
-Exibindo resultado no terminal do Visual Studio Code:
+<p>Exibindo resultado no terminal do Visual Studio Code:</p>
 
-<video src="img/exec-terminal.mp4"  controls></video>
+<video src="https://github.com/devlavanere/Lista-Tarefas-1/assets/125924854/e42f0d1e-66ed-4c51-a3b4-e458749acd30" controls></video>
 
 Caso deseje usar o cmd do windows:
 
-<video src="img/exec_terminal_2.mp4" controls></video>
+<video src="https://github.com/devlavanere/Lista-Tarefas-1/assets/125924854/5e94eaba-d659-48b5-810a-d72e8daee903" controls></video>
 
 <h2><strong>Enuciado dos Desafios e Respectivas Resoluções</strong></h2>
 
